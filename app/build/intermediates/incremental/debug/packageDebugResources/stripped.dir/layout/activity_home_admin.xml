@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="280dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="65dp"
+        android:contentDescription="@string/myfoe"
+        app:srcCompat="@drawable/untitled_design" />
+
+    <Button
+        android:id="@+id/MemberProfile"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="Member Profile"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/orange" />
+
+    <Button
+        android:id="@+id/News"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/MemberProfile"
+        android:layout_alignStart="@+id/MemberProfile"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtNews"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/News1"
+        android:layout_width="50dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/MemberProfile"
+        android:layout_alignEnd="@+id/MemberProfile"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="0dp"
+        android:layout_toEndOf="@+id/News"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="+"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/orange" />
+
+    <Button
+        android:id="@+id/Laboratory"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/News"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtLab"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Hotlines1"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Laboratory"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtHotlines"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Staff1"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Hotlines1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtStaff"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/FloorPlan1"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Staff1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtFloorPlan"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Logout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/FloorPlan1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/nunito_bold"
+        android:text="Logout"
+        app:backgroundTint="@color/maximum_red" />
+
+</RelativeLayout>
