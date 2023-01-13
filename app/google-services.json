@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234298761453",
+    "project_id": "myfoe-ed355",
+    "storage_bucket": "myfoe-ed355.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234298761453:android:33808a381819a051fd2ce4",
+        "android_client_info": {
+          "package_name": "com.example.myfoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234298761453-6qcq899f7h433sgb70sjsg22qjqg4820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC7o6h_TqysMYdja1OrzYzz_Yetxygq8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234298761453-6qcq899f7h433sgb70sjsg22qjqg4820.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
