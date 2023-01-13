@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_add_news.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_add_news.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/tfc.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/tfc.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/sfc.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/sfc.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_laboratory.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_laboratory.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_home.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/ffa.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/ffa.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/gfa.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/gfa.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_home_admin.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_home_admin.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_profile.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/singlerow1.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/singlerow1.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_member_profile.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_member_profile.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_member_sign_in.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_member_sign_in.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_register_now.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_register_now.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_administration.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_administration.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/singlerow.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/singlerow.xml"
+    },
+    {
+        "merged": "com.example.myfoe.app-mergeDebugResources-37:/layout/activity_home_admin.xml",
+        "source": "com.example.myfoe.app-main-40:/layout/activity_home_admin.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/lgfa.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/lgfa.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_hotlines.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_hotlines.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_lecturers.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_lecturers.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_admin_sign_in.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_admin_sign_in.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_news.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_news.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_floor_plan.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_floor_plan.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/tfa.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/tfa.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_professors.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_professors.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/sfa.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/sfa.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/ffc.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/ffc.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/gfc.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/gfc.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_staff.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_staff.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/gfb.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/gfb.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_prof28.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_prof28.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/activity_senior_lec.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/activity_senior_lec.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/tfb.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/tfb.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/ffb.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/ffb.xml"
+    },
+    {
+        "merged": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-mergeDebugResources-37:/layout/sfb.xml",
+        "source": "/Users/ahmadzakizainudin/.gradle/daemon/7.4/com.example.myfoe.app-main-40:/layout/sfb.xml"
+    }
+]
