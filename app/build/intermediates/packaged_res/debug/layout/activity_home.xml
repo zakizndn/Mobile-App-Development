@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="280dp"
+        android:layout_height="150dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="65dp"
+        android:contentDescription="@string/myfoe"
+        app:srcCompat="@drawable/untitled_design" />
+
+    <Button
+        android:id="@+id/Profile"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtProfile"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/News"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Profile"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtNews"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Hotlines"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/News"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtHotlines"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Staff"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Hotlines"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtStaff"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/Laboratory"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Staff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtLab"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+    <Button
+        android:id="@+id/FloorPlan"
+        android:layout_width="275dp"
+        android:layout_height="65dp"
+        android:layout_below="@+id/Laboratory"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/nunito_extrabold"
+        android:text="@string/txtFloorPlan"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        app:backgroundTint="@color/mikado_yellow" />
+
+</RelativeLayout>
