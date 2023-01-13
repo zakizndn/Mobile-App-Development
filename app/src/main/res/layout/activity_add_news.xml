@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AddNews">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:background="@color/white"
+        tools:context=".HomeActivity">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="280dp"
+            android:layout_height="250dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="65dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="65dp"
+            android:layout_marginBottom="50dp"
+            android:contentDescription="@string/myfoe"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.1"
+            app:srcCompat="@drawable/untitled_design" />
+
+        <EditText
+            android:id="@+id/Title"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_below="@+id/logo"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0dp"
+            android:ems="15"
+            android:hint="Title"
+            android:inputType="textMultiLine"
+            android:textColor="@color/prussian_blue"
+            android:textColorHint="@color/prussian_blue"
+            app:backgroundTint="@color/prussian_blue" />
+
+        <EditText
+            android:id="@+id/Detail"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_below="@+id/Title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:ems="15"
+            android:hint="Details"
+            android:inputType="textMultiLine"
+            android:textColor="@color/prussian_blue"
+            android:textColorHint="@color/prussian_blue"
+            app:backgroundTint="@color/prussian_blue" />
+
+        <EditText
+            android:id="@+id/Date"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_below="@+id/Detail"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:ems="15"
+            android:hint="Date"
+            android:inputType="textVisiblePassword"
+            android:textColor="@color/prussian_blue"
+            android:textColorHint="@color/prussian_blue"
+            app:backgroundTint="@color/prussian_blue" />
+
+        <EditText
+            android:id="@+id/Time"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_below="@+id/Date"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:ems="15"
+            android:hint="Time"
+            android:inputType="textVisiblePassword"
+            android:textColor="@color/prussian_blue"
+            android:textColorHint="@color/prussian_blue"
+            app:backgroundTint="@color/prussian_blue" />
+
+        <EditText
+            android:id="@+id/Venue"
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:layout_below="@+id/Time"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:ems="15"
+            android:hint="Venue"
+            android:inputType="textMultiLine"
+            android:textColor="@color/prussian_blue"
+            android:textColorHint="@color/prussian_blue"
+            app:backgroundTint="@color/prussian_blue" />
+
+
+        <Button
+            android:id="@+id/AddNow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/Venue"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Add Now"
+            app:backgroundTint="@color/prussian_blue"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintVertical_bias="1.0" />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

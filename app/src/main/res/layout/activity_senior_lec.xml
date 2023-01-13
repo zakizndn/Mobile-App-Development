@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        tools:context=".Administration">
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="280dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/myfoe"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/untitled_design" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_extrabold"
+            android:text="SENIOR LECTURERS"
+            android:textColor="@color/prussian_blue"
+            android:textSize="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/logo" />
+
+        <Button
+            android:id="@+id/SeniorLec1"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Cham Chin Leei\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <Button
+            android:id="@+id/SeniorLec2"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Chinnaiyan Senthilpari\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec1" />
+
+        <Button
+            android:id="@+id/SeniorLec3"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Foo Yee Loo\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec2" />
+
+        <Button
+            android:id="@+id/SeniorLec4"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Katrina D. Dambul\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec3" />
+
+        <Button
+            android:id="@+id/SeniorLec5"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Ku Chui Choon Ivan\nProfessor"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec4" />
+
+        <Button
+            android:id="@+id/SeniorLec6"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr.Lee Chu Liang\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec5" />
+
+        <Button
+            android:id="@+id/SeniorLec7"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Lee It Ee\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec6" />
+
+        <Button
+            android:id="@+id/SeniorLec8"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Lim Sin Liang\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec7" />
+
+        <Button
+            android:id="@+id/SeniorLec9"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Lo Yew Chiong\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec8" />
+
+        <Button
+            android:id="@+id/SeniorLec10"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Nee Chen Hon\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec9" />
+
+        <Button
+            android:id="@+id/SeniorLec11"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Ng Yin Hoe\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec10" />
+
+        <Button
+            android:id="@+id/SeniorLec12"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Ngu Eng Eng\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec11" />
+
+        <Button
+            android:id="@+id/SeniorLec13"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Nurul Nadia Ahmad\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec12" />
+
+        <Button
+            android:id="@+id/SeniorLec14"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Sarina Mansor\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec13" />
+
+        <Button
+            android:id="@+id/SeniorLec15"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Sin Yew Keong\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec14" />
+
+        <Button
+            android:id="@+id/SeniorLec16"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Siow Chun Lim\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec15" />
+
+        <Button
+            android:id="@+id/SeniorLec17"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Siti Azlida Ibrahim @ Ghazali\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec16" />
+
+        <Button
+            android:id="@+id/SeniorLec18"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Tan Wooi Haw\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec17" />
+
+        <Button
+            android:id="@+id/SeniorLec19"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Tan Wooi Neeg\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec18" />
+
+        <Button
+            android:id="@+id/SeniorLec20"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Tiang Jun Jiat\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec19" />
+
+        <Button
+            android:id="@+id/SeniorLec21"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Wong Sew Kin\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec20" />
+
+        <Button
+            android:id="@+id/SeniorLec22"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Yip Sook Chin\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec21" />
+
+        <Button
+            android:id="@+id/SeniorLec23"
+            android:layout_width="300dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="200dp"
+            android:fontFamily="@font/nunito_bold"
+            android:text="Dr. Zubaida Yusoff\nSenior Lecturer"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            app:backgroundTint="@color/papaya_whip"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.495"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/SeniorLec22" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
