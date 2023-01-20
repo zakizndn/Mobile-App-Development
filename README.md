@@ -30,3 +30,7 @@ https://user-images.githubusercontent.com/117178074/213658225-7ace389a-ec6a-4b4d
 https://user-images.githubusercontent.com/117178074/213658493-2bb5e2ce-83a4-47b1-aec9-505293945392.mp4
 
 https://user-images.githubusercontent.com/117178074/213658581-504fbd84-6da4-4aaa-86eb-fcd67a57ac8b.mp4
+
+## User Manual
+[User Manual.pdf](https://github.com/zakizndn/MyFoE/files/10464835/User.Manual.pdf)
+
