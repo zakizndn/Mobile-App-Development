@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/117178074/213657798-5f33c051-d6f6-4ed0
 https://user-images.githubusercontent.com/117178074/213657807-9257442c-acbc-4749-8de4-e46f66fe9754.mp4
 
 #### Admin Login
-https://user-images.githubusercontent.com/117178074/213657893-3220ece7-39c0-477f-b606-c8df4231aa00.mov
+https://user-images.githubusercontent.com/117178074/213658225-7ace389a-ec6a-4b4d-aab5-2e2d56fbcd3a.mov
 
 #### Admin Functions
+https://user-images.githubusercontent.com/117178074/213658493-2bb5e2ce-83a4-47b1-aec9-505293945392.mp4
 
+https://user-images.githubusercontent.com/117178074/213658581-504fbd84-6da4-4aaa-86eb-fcd67a57ac8b.mp4
