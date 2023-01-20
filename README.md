@@ -2,7 +2,7 @@
 
 ECE3156 - Software Engineering 
 
-A Specialized Mobile Application for Faculty of Engineering, Multimedia University, Cyberjaya
+Project Title: A Specialized Mobile Application for Faculty of Engineering, Multimedia University, Cyberjaya
 
 ## Demo 
 #### Member Sign Up 
