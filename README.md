@@ -4,6 +4,9 @@ ECE3156 - Software Engineering
 
 Project Title: A Specialized Mobile Application for Faculty of Engineering, Multimedia University, Cyberjaya
 
+## User Manual
+[User Manual.pdf](https://github.com/zakizndn/MyFoE/files/10464835/User.Manual.pdf)
+
 ## Demo 
 #### Member Sign Up 
 https://user-images.githubusercontent.com/117178074/213656632-12cd3699-3743-4731-910c-d715dd7d7867.mov
@@ -31,6 +34,5 @@ https://user-images.githubusercontent.com/117178074/213658493-2bb5e2ce-83a4-47b1
 
 https://user-images.githubusercontent.com/117178074/213658581-504fbd84-6da4-4aaa-86eb-fcd67a57ac8b.mp4
 
-## User Manual
-[User Manual.pdf](https://github.com/zakizndn/MyFoE/files/10464835/User.Manual.pdf)
+
 
